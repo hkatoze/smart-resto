@@ -18,5 +18,3 @@ Ce projet a été développé lorsque j'étais membre de l'équipe Smart Touch G
 
 🎁 **Démo**  
 Pour découvrir comment "Smart-Resto" peut simplifier la restauration d'entreprise pour votre organisation, découvrez une démonstration en direct [ici](lien-vers-la-démo-en-ligne).
-
-N'hésitez pas à remplacer "lien-vers-la-vidéo-de-présentation.mov" par le lien réel vers la vidéo de présentation de votre projet, "lien-vers-la-démo-en-ligne" par le lien vers votre démonstration en direct, et à ajouter toute autre information pertinente.
