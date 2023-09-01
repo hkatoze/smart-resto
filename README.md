@@ -13,7 +13,7 @@
 🏢 **Solutions d'Entreprise**  
 "Smart-Resto" est conçu pour répondre aux besoins des entreprises modernes en matière de restauration d'entreprise. Il offre un moyen efficace et pratique de satisfaire les besoins alimentaires de vos employés.
 
-💼 **Développement chez Smart Touch Group**  
+💼 **Développement chez [Smart Touch Group](https://www.smt-group.net/)**  
 Ce projet a été développé lorsque j'étais membre de l'équipe [Smart Touch Group](https://www.smt-group.net/), démontrant notre capacité à créer des solutions personnalisées pour les entreprises.
 
 🎁 **Démo**  
